@@ -1,0 +1,1 @@
+function t(t,n=Math.random){const r=[...t];for(let o=r.length-1;o>0;o--){const t=Math.floor(n()*(o+1));[r[o],r[t]]=[r[t],r[o]]}return r}function n(t,n=Math.random){return t[Math.floor(n()*t.length)]}function r(t,r,o=t=>t,a=Math.random){if(!t.length)return;const e=null==r?t:t.filter(t=>o(t)!==r);return n(e.length?e:t,a)}export{n as a,r as p,t as s};

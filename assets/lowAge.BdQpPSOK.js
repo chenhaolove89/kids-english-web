@@ -1,1 +1,0 @@
-import{g as s}from"./storage.5IFMdnD6.js";const o=["characters","story"];function t(){const o=s().get("prefs",{});return void 0===(null==o?void 0:o.lowAge)||!!o.lowAge}function e(o){const t=s(),e=t.get("prefs",{})||{};t.set("prefs",{...e,...o})}function n(s){e({lowAge:!!s})}function r(s){return t()&&o.includes(s)}export{t as g,r as i,n as s,e as u};
