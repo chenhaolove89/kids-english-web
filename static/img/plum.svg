@@ -1,5 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#12B886"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="163" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">plum</text>
+  <ellipse cx="252" cy="300" rx="150" ry="140" fill="#8E4585"/>
+  <path d="M252 170 C246 224 244 262 252 302" stroke="#743A6C" stroke-width="10" fill="none" stroke-linecap="round" opacity="0.55"/>
+  <path d="M250 168 C240 140 224 124 202 116" stroke="#7A5230" stroke-width="14" fill="none" stroke-linecap="round"/>
+  <ellipse cx="308" cy="124" rx="60" ry="26" fill="#5FA052" transform="rotate(-16 308 124)"/>
+  <ellipse cx="188" cy="248" rx="46" ry="30" fill="#FFFFFF" opacity="0.32" transform="rotate(-24 188 248)"/>
 </svg>

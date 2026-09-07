@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
   <rect x="16" y="16" width="480" height="480" rx="110" fill="#4D96FF"/>
   <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="131" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">arrow</text>
+  <polygon points="84,214 262,214 262,140 430,256 262,372 262,298 84,298" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="14" stroke-linejoin="round"/>
 </svg>

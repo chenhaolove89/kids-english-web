@@ -1,5 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#4ECDC4"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="109" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">papaya</text>
+  <ellipse cx="256" cy="272" rx="118" ry="176" fill="#8FB03A"/>
+  <ellipse cx="256" cy="272" rx="106" ry="164" fill="#FFB13B"/>
+  <ellipse cx="256" cy="286" rx="42" ry="86" fill="#3E2A1E"/>
+  <ellipse cx="212" cy="182" rx="30" ry="20" fill="#FFFFFF" opacity="0.35" transform="rotate(-30 212 182)"/>
 </svg>
