@@ -1,0 +1,1 @@
+function n(n,t=Math.random){const r=[...n];for(let a=r.length-1;a>0;a--){const n=Math.floor(t()*(a+1));[r[a],r[n]]=[r[n],r[a]]}return r}function t(n,t=Math.random){return n[Math.floor(t()*n.length)]}function r(n,t){return!!n&&String(t)===String(n.answer)}function a(n,t){return!(!n||!n.answer)&&String(t)===String(n.answer.id)}export{a,r as i,t as p,n as s};
