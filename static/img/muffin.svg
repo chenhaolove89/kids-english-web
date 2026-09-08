@@ -1,5 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#FFC94D"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="109" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">muffin</text>
+  <path d="M180 234 L332 234 L308 398 Q256 414 204 398 Z" fill="#F5B841"/>
+  <path d="M216 244 L202 398" stroke="#E0A32E" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M256 244 L256 410" stroke="#E0A32E" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M296 244 L310 398" stroke="#E0A32E" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M162 236 Q162 138 256 138 Q350 138 350 236 Z" fill="#C8862A"/>
+  <circle cx="216" cy="170" r="9" fill="#8B5A2B"/><circle cx="280" cy="156" r="9" fill="#8B5A2B"/><circle cx="314" cy="190" r="9" fill="#8B5A2B"/>
+  <ellipse cx="206" cy="176" rx="24" ry="16" fill="#FFFFFF" opacity="0.35" transform="rotate(-20 206 176)"/>
 </svg>

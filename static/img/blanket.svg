@@ -1,5 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#FFC94D"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="93" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">blanket</text>
+  <rect x="126" y="280" width="260" height="70" rx="24" fill="#F8A5C2"/>
+  <rect x="140" y="216" width="232" height="70" rx="24" fill="#A8D8B0"/>
+  <rect x="154" y="152" width="204" height="70" rx="24" fill="#A8C4F0"/>
+  <path d="M154 300 L386 300" stroke="#E888AC" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M168 236 L344 236" stroke="#7EC290" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M182 172 L330 172" stroke="#7EA6E0" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <ellipse cx="196" cy="170" rx="34" ry="12" fill="#FFFFFF" opacity="0.35" transform="rotate(-6 196 170)"/>
 </svg>

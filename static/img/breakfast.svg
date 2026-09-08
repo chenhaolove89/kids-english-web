@@ -1,5 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#9B5DE5"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="72" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">breakfast</text>
+  <circle cx="150" cy="116" r="42" fill="#FFD54F"/><path d="M206 116 L230 116" stroke="#FFB300" stroke-width="10" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/><path d="M190 156 L207 173" stroke="#FFB300" stroke-width="10" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/><path d="M150 172 L150 196" stroke="#FFB300" stroke-width="10" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/><path d="M110 156 L93 173" stroke="#FFB300" stroke-width="10" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/><path d="M94 116 L70 116" stroke="#FFB300" stroke-width="10" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/><path d="M110 76 L93 59" stroke="#FFB300" stroke-width="10" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/><path d="M150 60 L150 36" stroke="#FFB300" stroke-width="10" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/><path d="M190 76 L207 59" stroke="#FFB300" stroke-width="10" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  
+  <circle cx="256" cy="380" r="160" fill="#E3E7EC"/>
+  <circle cx="256" cy="372" r="132" fill="#FAFAFA"/>
+  <ellipse cx="240" cy="366" rx="84" ry="52" fill="#FFFFFF" stroke="#E3E7EC" stroke-width="4"/>
+  <circle cx="246" cy="362" r="24" fill="#F5B841"/>
+  <ellipse cx="216" cy="344" rx="14" ry="9" fill="#FFFFFF" opacity="0.6" transform="rotate(-20 216 344)"/>
 </svg>

@@ -1,5 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#9B5DE5"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="218" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">yam</text>
+  <g transform="rotate(14 256 280)">
+    <rect x="218" y="108" width="76" height="348" rx="38" fill="#8B6B4A"/>
+    <ellipse cx="256" cy="112" rx="38" ry="15" fill="#F5EFE0" stroke="#6E5238" stroke-width="5"/>
+    <circle cx="240" cy="190" r="5" fill="#6E5238"/><circle cx="274" cy="240" r="5" fill="#6E5238"/><circle cx="244" cy="300" r="5" fill="#6E5238"/><circle cx="276" cy="352" r="5" fill="#6E5238"/>
+    <path d="M238 220 L222 214" stroke="#6E5238" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+    <path d="M276 286 L292 280" stroke="#6E5238" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+    <path d="M240 386 L226 382" stroke="#6E5238" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  </g>
+  <ellipse cx="238" cy="180" rx="14" ry="60" fill="#FFFFFF" opacity="0.25" transform="rotate(12 238 180)"/>
 </svg>

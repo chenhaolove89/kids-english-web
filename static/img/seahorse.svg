@@ -1,5 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#3BB273"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="81" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">seahorse</text>
+  <path d="M292 322 C300 400 250 432 205 425 C170 419 158 385 178 362 C192 346 216 350 220 372" stroke="#F2A93B" stroke-width="16" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <ellipse cx="285" cy="258" rx="58" ry="85" fill="#FFC96B"/>
+  <ellipse cx="292" cy="272" rx="32" ry="56" fill="#FFE3AD"/>
+  <path d="M232 210 C196 226 196 268 224 292 L234 292 C214 264 216 236 240 216 Z" fill="#F2A93B"/>
+  <circle cx="300" cy="150" r="52" fill="#FFC96B"/>
+  <rect x="200" y="140" width="66" height="26" rx="13" fill="#FFC96B"/>
+  <path d="M282 100 L292 78 L304 96 L316 76 L324 98 Z" fill="#F2A93B"/>
+  <circle cx="318" cy="140" r="7" fill="#5A4632"/><circle cx="321" cy="137" r="2.5" fill="#FFFFFF"/>
+  <circle cx="282" cy="168" r="8" fill="#FFAB91" opacity="0.6"/>
+  <circle cx="200" cy="152" r="3.5" fill="#D98F2B"/>
+  <ellipse cx="282" cy="128" rx="14" ry="9" fill="#FFFFFF" opacity="0.3" transform="rotate(-25 282 128)"/>
 </svg>

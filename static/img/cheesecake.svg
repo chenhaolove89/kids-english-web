@@ -1,5 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#4ECDC4"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="65" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">cheesecake</text>
+  <path d="M136 320 L376 320 L376 356 Q256 380 136 356 Z" fill="#D9A441"/>
+  <path d="M136 320 L376 320 L352 208 Q256 186 160 208 Z" fill="#F7E3B8"/>
+  <path d="M160 208 Q256 186 352 208 L348 226 Q256 206 164 226 Z" fill="#E8C878"/>
+  <circle cx="300" cy="190" r="24" fill="#E8437C"/>
+  <ellipse cx="306" cy="166" rx="13" ry="7" fill="#5CB85C" transform="rotate(-24 306 166)"/>
+  <ellipse cx="210" cy="254" rx="20" ry="30" fill="#FFFFFF" opacity="0.4" transform="rotate(12 210 254)"/>
 </svg>

@@ -1,5 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#5C7CFA"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="131" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">orbit</text>
+  <ellipse cx="256" cy="256" rx="186" ry="96" fill="none" stroke="#F5F0E8" stroke-width="7" stroke-dasharray="18 14" transform="rotate(-16 256 256)"/>
+  <circle cx="256" cy="256" r="74" fill="#9B6BD9"/>
+  <ellipse cx="256" cy="238" rx="58" ry="12" fill="#B893E8" transform="rotate(-8 256 238)"/>
+  <ellipse cx="256" cy="282" rx="48" ry="10" fill="#7A4FB8" transform="rotate(6 256 282)"/>
+  <ellipse cx="228" cy="216" rx="16" ry="10" fill="#FFFFFF" opacity="0.4" transform="rotate(-24 228 216)"/>
+  <circle cx="408" cy="186" r="22" fill="#C9D4DC" stroke="#9FB4C4" stroke-width="4"/>
+  <circle cx="414" cy="180" r="6" fill="#9FB4C4"/>
+  <circle cx="96" cy="330" r="4" fill="#F5F0E8"/><circle cx="420" cy="360" r="5" fill="#F5F0E8"/>
 </svg>

@@ -1,5 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#FFC94D"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="109" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">museum</text>
+  <rect x="70" y="400" width="372" height="26" rx="8" fill="#C4AE9F"/>
+  <rect x="90" y="374" width="332" height="26" rx="8" fill="#D8C8BC"/>
+  <path d="M256 96 L436 190 L76 190 Z" fill="#9FB4C4"/>
+  <rect x="96" y="190" width="320" height="26" rx="6" fill="#B8C8D4"/>
+  <circle cx="256" cy="152" r="22" fill="#F5F0E8"/>
+  <circle cx="256" cy="152" r="12" fill="#F2A93B"/>
+  <rect x="116" y="216" width="40" height="158" rx="6" fill="#F5F0E8"/>
+  <rect x="196" y="216" width="40" height="158" rx="6" fill="#F5F0E8"/>
+  <rect x="276" y="216" width="40" height="158" rx="6" fill="#F5F0E8"/>
+  <rect x="356" y="216" width="40" height="158" rx="6" fill="#F5F0E8"/>
+  <path d="M116 240 L156 240" stroke="#D8D8D8" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/><path d="M196 240 L236 240" stroke="#D8D8D8" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/><path d="M276 240 L316 240" stroke="#D8D8D8" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/><path d="M356 240 L396 240" stroke="#D8D8D8" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <ellipse cx="140" cy="300" rx="8" ry="40" fill="#FFFFFF" opacity="0.4"/>
 </svg>

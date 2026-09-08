@@ -1,5 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#FFC94D"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="218" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">eel</text>
+  <path d="M108 356 C150 260 218 260 258 300 C300 342 352 336 380 268 C398 224 386 190 352 168" stroke="#63A967" stroke-width="46" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M116 332 C156 242 220 240 260 280 C302 320 350 316 376 252" stroke="#4E8C50" stroke-width="9" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <circle cx="350" cy="166" r="28" fill="#63A967"/>
+  <circle cx="356" cy="156" r="7" fill="#FFFFFF"/><circle cx="357" cy="157" r="3.5" fill="#2F4E33"/><circle cx="359" cy="154" r="1.5" fill="#FFFFFF"/>
+  <path d="M330 176 Q342 186 356 182" stroke="#3F7241" stroke-width="3.5" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M320 152 Q312 168 322 182" stroke="#4E8C50" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <ellipse cx="250" cy="296" rx="20" ry="10" fill="#FFFFFF" opacity="0.25" transform="rotate(15 250 296)"/>
+  <circle cx="108" cy="356" r="20" fill="#63A967"/>
 </svg>

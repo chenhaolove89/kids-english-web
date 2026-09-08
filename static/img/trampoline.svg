@@ -1,5 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#9B5DE5"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="65" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">trampoline</text>
+  <path d="M180 300 Q150 230 186 162" stroke="#B0BEC5" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.8"/>
+  <path d="M332 300 Q362 230 326 162" stroke="#B0BEC5" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.8"/>
+  <path d="M238 296 L228 348 M274 296 L292 344" stroke="#FFD9B3" stroke-width="22" fill="none" stroke-linecap="round"/>
+  <rect x="228" y="208" width="56" height="96" rx="20" fill="#F25C54"/>
+  <path d="M238 228 L206 176" stroke="#FFD9B3" stroke-width="18" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M274 228 L306 176" stroke="#FFD9B3" stroke-width="18" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <circle cx="256" cy="162" r="40" fill="#FFD9B3"/>
+  <circle cx="243" cy="156" r="5.5" fill="#4A342E"/><circle cx="269" cy="156" r="5.5" fill="#4A342E"/>
+  <path d="M244 176 Q256 186 268 176" stroke="#4A342E" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M116 352 Q256 314 396 352 L384 378 Q256 344 128 378 Z" fill="#4A90D9"/>
+  <path d="M148 372 L118 444" stroke="#37474F" stroke-width="13" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M364 372 L394 444" stroke="#37474F" stroke-width="13" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M256 356 L256 444" stroke="#37474F" stroke-width="13" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <ellipse cx="150" cy="360" rx="30" ry="8" fill="#FFFFFF" opacity="0.35" transform="rotate(4 150 360)"/>
 </svg>

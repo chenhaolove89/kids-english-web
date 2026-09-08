@@ -1,5 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#5C7CFA"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="109" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">toffee</text>
+  <g transform="rotate(-18 256 280)">
+    <ellipse cx="256" cy="280" rx="74" ry="52" fill="#D64541"/>
+    <path d="M182 280 L128 246 Q140 280 128 314 Z" fill="#F25C54"/>
+    <path d="M330 280 L384 246 Q372 280 384 314 Z" fill="#F25C54"/>
+    <ellipse cx="230" cy="262" rx="22" ry="12" fill="#FFFFFF" opacity="0.4" transform="rotate(-16 230 262)"/>
+  </g>
+  <g transform="rotate(16 256 300)">
+    <ellipse cx="286" cy="304" rx="64" ry="44" fill="#F5B841"/>
+    <path d="M222 304 L174 274 Q184 304 174 334 Z" fill="#FFD54F"/>
+    <path d="M350 304 L398 274 Q388 304 398 334 Z" fill="#FFD54F"/>
+    <ellipse cx="266" cy="290" rx="18" ry="10" fill="#FFFFFF" opacity="0.45" transform="rotate(-16 266 290)"/>
+  </g>
 </svg>

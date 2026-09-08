@@ -1,5 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#4ECDC4"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="163" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">oven</text>
+  <rect x="126" y="96" width="260" height="330" rx="18" fill="#B0BEC5"/>
+  <rect x="136" y="106" width="240" height="74" rx="10" fill="#78909C"/>
+  <circle cx="170" cy="143" r="13" fill="#ECEFF3"/><circle cx="216" cy="143" r="13" fill="#ECEFF3"/><circle cx="298" cy="143" r="13" fill="#ECEFF3"/><circle cx="344" cy="143" r="13" fill="#ECEFF3"/>
+  <path d="M154 132 L190 132" stroke="#546E7A" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <rect x="140" y="192" width="232" height="216" rx="12" fill="#ECEFF3"/>
+  <rect x="158" y="232" width="196" height="140" rx="10" fill="#37474F"/>
+  <rect x="166" y="240" width="180" height="124" rx="8" fill="#546E7A"/>
+  <path d="M180 216 L340 216" stroke="#90A4AE" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M240 240 L240 364" stroke="#37474F" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M166 310 L348 310" stroke="#37474F" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
 </svg>

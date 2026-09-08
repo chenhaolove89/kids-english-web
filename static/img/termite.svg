@@ -1,5 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#12B886"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="93" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">termite</text>
+  <path d="M164 206 C152 182 132 170 114 170" stroke="#C99B5F" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M186 200 C182 174 168 156 150 148" stroke="#C99B5F" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M190 276 L182 312" stroke="#B98A54" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/><path d="M244 276 L228 316" stroke="#B98A54" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/><path d="M258 278 L254 318" stroke="#B98A54" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M282 234 C352 232 404 274 404 326 C404 372 368 398 330 392 C296 386 278 350 276 310 C275 284 276 256 282 234 Z" fill="#E3B77E"/>
+  <ellipse cx="340" cy="300" rx="20" ry="12" fill="#FFFFFF" opacity="0.3" transform="rotate(-30 340 300)"/>
+  <path d="M302 252 Q330 272 322 306" stroke="#C99B5F" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.7"/>
+  <ellipse cx="254" cy="252" rx="38" ry="32" fill="#EFC890"/>
+  <ellipse cx="182" cy="238" rx="46" ry="40" fill="#E3B77E"/>
+  <path d="M140 244 C122 244 112 232 112 220" stroke="#C99B5F" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M140 258 C122 260 110 272 112 284" stroke="#C99B5F" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <circle cx="180" cy="228" r="9" fill="#FFFFFF"/><circle cx="180" cy="229" r="4.5" fill="#6E4A22"/><circle cx="184" cy="224" r="1.8" fill="#FFFFFF"/>
 </svg>

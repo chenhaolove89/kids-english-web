@@ -1,5 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#5C7CFA"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="109" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">yogurt</text>
+  <ellipse cx="256" cy="196" rx="102" ry="26" fill="#C7CED6"/>
+  <ellipse cx="256" cy="192" rx="94" ry="22" fill="#ECEFF3"/>
+  <path d="M176 188 Q256 154 336 188" stroke="#FFFFFF" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.8"/>
+  <path d="M172 210 L340 210 L318 398 Q256 416 194 398 Z" fill="#5CC0F0"/>
+  <circle cx="256" cy="306" r="36" fill="#F5B841"/>
+  <ellipse cx="266" cy="272" rx="16" ry="8" fill="#5CB85C" transform="rotate(-28 266 272)"/>
+  <path d="M196 254 L316 254" stroke="#4FA8D8" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <ellipse cx="212" cy="290" rx="14" ry="60" fill="#FFFFFF" opacity="0.35" transform="rotate(-8 212 290)"/>
 </svg>

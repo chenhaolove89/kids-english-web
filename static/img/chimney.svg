@@ -1,5 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#FFC94D"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="93" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">chimney</text>
+  <path d="M300 130 Q291.6 109 301.4 93.6 Q311.2 78.2 301.4 62.80000000000001" stroke="#B0BEC5" stroke-width="9" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.7"/>
+  <rect x="266" y="148" width="76" height="150" rx="8" fill="#B0BEC5"/>
+  <rect x="258" y="140" width="92" height="30" rx="8" fill="#90A4AE"/>
+  <path d="M266 210 L342 210" stroke="#90A4AE" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M266 250 L342 250" stroke="#90A4AE" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M96 300 L256 190 L416 300 L384 300 L256 218 L128 300 Z" fill="#D64541"/>
+  <path d="M128 300 L256 218 L384 300 Z" fill="#E86A5C"/>
+  <rect x="156" y="300" width="200" height="110" rx="8" fill="#ECEFF3"/>
+  <ellipse cx="196" cy="250" rx="30" ry="10" fill="#FFFFFF" opacity="0.3" transform="rotate(-28 196 250)"/>
 </svg>

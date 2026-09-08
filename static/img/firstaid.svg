@@ -1,5 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#4D96FF"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="72" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">first aid</text>
+  <rect x="196" y="150" width="120" height="34" rx="12" fill="#5A6470"/>
+  <rect x="96" y="176" width="320" height="220" rx="24" fill="#F5F0E8" stroke="#D8D8D8" stroke-width="5"/>
+  <path d="M96 240 L416 240" stroke="#D8D8D8" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <rect x="232" y="258" width="48" height="120" rx="10" fill="#D94A3D"/>
+  <rect x="196" y="294" width="120" height="48" rx="10" fill="#D94A3D"/>
+  <circle cx="48" cy="300" r="10" fill="#63B068"/>
+  <rect x="396" y="330" width="84" height="66" rx="14" fill="#E8D5B8" stroke="#C9B87E" stroke-width="4"/>
+  <ellipse cx="438" cy="363" rx="22" ry="22" fill="#F5F0E8"/>
+  <path d="M438 341 A22 22 0 0 1 438 385" stroke="#C9B87E" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <ellipse cx="130" cy="210" rx="12" ry="20" fill="#FFFFFF" opacity="0.4" transform="rotate(-10 130 210)"/>
 </svg>

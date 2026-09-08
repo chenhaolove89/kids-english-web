@@ -1,5 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#3BB273"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="131" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">flour</text>
+  <rect x="190" y="172" width="132" height="46" rx="10" fill="#E5D5AE"/>
+  <path d="M182 216 Q256 186 330 216 L346 386 Q256 418 166 386 Z" fill="#F0E3C8"/>
+  <circle cx="256" cy="300" r="56" fill="#FFF8EC"/>
+  <path d="M256 272 L256 332" stroke="#C8862A" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <ellipse cx="242" cy="284" rx="7" ry="14" fill="#D9A441" transform="rotate(-32 242 284)"/>
+  <ellipse cx="270" cy="284" rx="7" ry="14" fill="#D9A441" transform="rotate(32 270 284)"/>
+  <ellipse cx="242" cy="304" rx="7" ry="14" fill="#D9A441" transform="rotate(-32 242 304)"/>
+  <ellipse cx="270" cy="304" rx="7" ry="14" fill="#D9A441" transform="rotate(32 270 304)"/>
+  <ellipse cx="242" cy="324" rx="7" ry="14" fill="#D9A441" transform="rotate(-32 242 324)"/>
+  <ellipse cx="270" cy="324" rx="7" ry="14" fill="#D9A441" transform="rotate(32 270 324)"/>
+  <ellipse cx="196" cy="250" rx="18" ry="50" fill="#FFFFFF" opacity="0.4" transform="rotate(-8 196 250)"/>
 </svg>

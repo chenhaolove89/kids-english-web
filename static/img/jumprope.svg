@@ -1,5 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#FF8C42"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="72" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">jump rope</text>
+  <path d="M186 168 Q256 48 326 168" stroke="#FF5CA8" stroke-width="11" fill="none" stroke-linecap="round"/>
+  <circle cx="184" cy="172" r="13" fill="#E8437C"/><circle cx="328" cy="172" r="13" fill="#E8437C"/>
+  <path d="M244 296 L226 352" stroke="#FFD9B3" stroke-width="24" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M268 296 L296 342" stroke="#FFD9B3" stroke-width="24" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <rect x="222" y="186" width="68" height="112" rx="22" fill="#FFB13B"/>
+  <path d="M234 206 L200 158" stroke="#FFD9B3" stroke-width="20" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M278 206 L312 158" stroke="#FFD9B3" stroke-width="20" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <circle cx="256" cy="138" r="44" fill="#FFD9B3"/>
+  <circle cx="242" cy="132" r="6" fill="#4A342E"/><circle cx="270" cy="132" r="6" fill="#4A342E"/>
+  <path d="M244 154 Q256 164 268 154" stroke="#4A342E" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <ellipse cx="256" cy="428" rx="72" ry="13" fill="#37474F" opacity="0.12"/>
+  <path d="M196 408 L226 408" stroke="#B0BEC5" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M286 408 L316 408" stroke="#B0BEC5" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
 </svg>

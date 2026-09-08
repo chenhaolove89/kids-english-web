@@ -1,5 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#C77DFF"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="109" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">temple</text>
+  <rect x="90" y="400" width="332" height="26" rx="8" fill="#C4AE9F"/>
+  <rect x="130" y="260" width="252" height="140" rx="8" fill="#E8E0D8"/>
+  <rect x="150" y="260" width="26" height="140" rx="6" fill="#C94A4A"/>
+  <rect x="336" y="260" width="26" height="140" rx="6" fill="#C94A4A"/>
+  <rect x="226" y="316" width="60" height="84" rx="6" fill="#8A6242"/>
+  <circle cx="256" cy="352" r="7" fill="#F5C542"/>
+  <path d="M256 150 L388 236 C360 246 300 250 256 250 C212 250 152 246 124 236 Z" fill="#4A5A64"/>
+  <path d="M124 236 C118 226 116 218 118 210 L136 228 Z" fill="#4A5A64"/>
+  <path d="M388 236 C394 226 396 218 394 210 L376 228 Z" fill="#4A5A64"/>
+  <rect x="196" y="250" width="120" height="12" rx="6" fill="#C94A4A"/>
+  <path d="M256 82 L344 148 C320 156 288 158 256 158 C224 158 192 156 168 148 Z" fill="#4A5A64"/>
+  <path d="M168 148 C162 140 160 134 162 128 L178 142 Z" fill="#4A5A64"/>
+  <path d="M344 148 C350 140 352 134 350 128 L334 142 Z" fill="#4A5A64"/>
+  <circle cx="256" cy="74" r="9" fill="#F5C542"/>
+  <rect x="236" y="158" width="40" height="30" rx="6" fill="#C94A4A"/>
+  <ellipse cx="170" cy="200" rx="16" ry="8" fill="#FFFFFF" opacity="0.25" transform="rotate(-20 170 200)"/>
 </svg>

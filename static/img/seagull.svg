@@ -1,5 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#12B886"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="93" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">seagull</text>
+  <path d="M256 262 C200 200 130 170 68 182" stroke="#F5F5F5" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M256 262 C312 200 382 170 444 182" stroke="#F5F5F5" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M116 180 C96 176 80 178 68 182" stroke="#9FB4C4" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M396 180 C416 176 432 178 444 182" stroke="#9FB4C4" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <ellipse cx="256" cy="302" rx="45" ry="60" fill="#F5F5F5"/>
+  <ellipse cx="214" cy="280" rx="22" ry="40" fill="#9FB4C4" transform="rotate(20 214 280)"/>
+  <ellipse cx="298" cy="280" rx="22" ry="40" fill="#9FB4C4" transform="rotate(-20 298 280)"/>
+  <circle cx="256" cy="240" r="34" fill="#F5F5F5"/>
+  <path d="M244 256 L256 284 L268 256 Z" fill="#F2A93B"/>
+  <circle cx="242" cy="234" r="5" fill="#2F3A42"/><circle cx="270" cy="234" r="5" fill="#2F3A42"/>
+  <path d="M150 424 Q180 412 210 424" stroke="#58ABDF" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M300 436 Q330 424 360 436" stroke="#58ABDF" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
 </svg>

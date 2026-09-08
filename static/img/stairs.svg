@@ -1,5 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#4ECDC4"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="109" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">stairs</text>
+  <path d="M96 416 L96 350 L166 350 L166 284 L236 284 L236 218 L306 218 L306 152 L376 152 L376 416 Z" fill="#C8862A"/>
+  <rect x="96" y="344" width="70" height="14" rx="4" fill="#D99A4E"/>
+  <rect x="166" y="278" width="70" height="14" rx="4" fill="#D99A4E"/>
+  <rect x="236" y="212" width="70" height="14" rx="4" fill="#D99A4E"/>
+  <rect x="306" y="146" width="70" height="14" rx="4" fill="#D99A4E"/>
+  <ellipse cx="110" cy="390" rx="24" ry="8" fill="#FFFFFF" opacity="0.3" transform="rotate(-30 110 390)"/>
+  <circle cx="341" cy="118" r="9" fill="#F5B841"/><circle cx="360" cy="96" r="6" fill="#F5B841"/>
 </svg>

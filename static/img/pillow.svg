@@ -1,5 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#9B5DE5"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="109" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">pillow</text>
+  <path d="M116 200 Q256 130 396 200 Q430 256 396 330 Q256 398 116 330 Q82 256 116 200 Z" fill="#A8C4F0"/>
+  <circle cx="150" cy="224" r="9" fill="#7EA6E0"/><circle cx="362" cy="224" r="9" fill="#7EA6E0"/>
+  <circle cx="150" cy="306" r="9" fill="#7EA6E0"/><circle cx="362" cy="306" r="9" fill="#7EA6E0"/>
+  <path d="M186 246 Q256 282 326 246" stroke="#8FB6E8" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <ellipse cx="180" cy="200" rx="50" ry="18" fill="#FFFFFF" opacity="0.35" transform="rotate(-8 180 200)"/>
 </svg>

@@ -1,5 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#FF6B6B"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="81" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">stingray</text>
+  <path d="M256 318 C262 380 300 410 350 416" stroke="#6A7CC4" stroke-width="10" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <circle cx="350" cy="416" r="5" fill="#6A7CC4"/>
+  <path d="M216 200 C160 210 90 250 66 296 C120 300 180 288 224 268 Z" fill="#7B8FD4"/>
+  <path d="M296 200 C352 210 422 250 446 296 C392 300 332 288 288 268 Z" fill="#7B8FD4"/>
+  <ellipse cx="256" cy="250" rx="60" ry="70" fill="#7B8FD4"/>
+  <path d="M150 268 Q200 258 236 240" stroke="#6A7CC4" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.6"/>
+  <path d="M362 268 Q312 258 276 240" stroke="#6A7CC4" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.6"/>
+  <circle cx="238" cy="226" r="6" fill="#2F3A5E"/><circle cx="274" cy="226" r="6" fill="#2F3A5E"/>
+  <circle cx="240" cy="224" r="2" fill="#FFFFFF"/><circle cx="276" cy="224" r="2" fill="#FFFFFF"/>
+  <path d="M244 250 Q256 258 268 250" stroke="#2F3A5E" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <ellipse cx="212" cy="232" rx="16" ry="8" fill="#FFFFFF" opacity="0.3" transform="rotate(-15 212 232)"/>
 </svg>

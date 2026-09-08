@@ -1,5 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#12B886"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="72" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">spacesuit</text>
+  <rect x="176" y="216" width="30" height="96" rx="12" fill="#C9D4DC"/>
+  <rect x="270" y="216" width="30" height="96" rx="12" fill="#C9D4DC"/>
+  <path d="M212 236 L188 300" stroke="#F5F0E8" stroke-width="22" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/><path d="M300 236 L324 300" stroke="#F5F0E8" stroke-width="22" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <circle cx="186" cy="310" r="12" fill="#9FB4C4"/><circle cx="326" cy="310" r="12" fill="#9FB4C4"/>
+  <rect x="204" y="208" width="104" height="128" rx="28" fill="#F5F0E8" stroke="#D8D8D8" stroke-width="3"/>
+  <rect x="232" y="236" width="48" height="32" rx="8" fill="#9FB4C4"/>
+  <circle cx="244" cy="252" r="5" fill="#D94A3D"/><circle cx="258" cy="252" r="5" fill="#63B068"/><circle cx="272" cy="252" r="5" fill="#3E7FBF"/>
+  <path d="M234 336 L230 396" stroke="#F5F0E8" stroke-width="22" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/><path d="M278 336 L282 396" stroke="#F5F0E8" stroke-width="22" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <rect x="212" y="396" width="40" height="22" rx="10" fill="#5A6470"/><rect x="264" y="396" width="40" height="22" rx="10" fill="#5A6470"/>
+  <circle cx="256" cy="148" r="64" fill="#F5F0E8" stroke="#D8D8D8" stroke-width="3"/>
+  <ellipse cx="256" cy="152" rx="46" ry="40" fill="#7FC4EA"/>
+  <circle cx="256" cy="160" r="30" fill="#FFD9B3"/>
+  <circle cx="246" cy="156" r="4" fill="#4A342E"/><circle cx="266" cy="156" r="4" fill="#4A342E"/>
+  <path d="M248 170 Q256 176 264 170" stroke="#4A342E" stroke-width="3.5" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <ellipse cx="236" cy="128" rx="14" ry="9" fill="#FFFFFF" opacity="0.5" transform="rotate(-25 236 128)"/>
 </svg>

@@ -1,5 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#C77DFF"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="109" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">garage</text>
+  <path d="M96 220 L256 120 L416 220 L416 244 L96 244 Z" fill="#D64541"/>
+  <rect x="96" y="238" width="320" height="190" rx="10" fill="#ECEFF3"/>
+  <rect x="126" y="262" width="260" height="168" rx="8" fill="#B0BEC5"/>
+  <rect x="134" y="272" width="244" height="8" rx="4" fill="#90A4AE"/><rect x="134" y="298" width="244" height="8" rx="4" fill="#90A4AE"/><rect x="134" y="324" width="244" height="8" rx="4" fill="#90A4AE"/><rect x="134" y="350" width="244" height="8" rx="4" fill="#90A4AE"/><rect x="134" y="376" width="244" height="8" rx="4" fill="#90A4AE"/><rect x="134" y="402" width="244" height="8" rx="4" fill="#90A4AE"/>
+  <rect x="236" y="300" width="40" height="12" rx="6" fill="#78909C"/>
+  <ellipse cx="150" cy="152" rx="40" ry="12" fill="#FFFFFF" opacity="0.3" transform="rotate(-26 150 152)"/>
 </svg>

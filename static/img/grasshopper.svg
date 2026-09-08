@@ -1,5 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#12B886"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="59" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">grasshopper</text>
+  <ellipse cx="300" cy="262" rx="92" ry="26" fill="#A8DC7A" transform="rotate(12 300 262)"/>
+  <path d="M300 250 C340 246 372 252 388 262" stroke="#8FCE63" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M316 296 L358 362" stroke="#4E8C2E" stroke-width="20" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M358 362 L328 430" stroke="#4E8C2E" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M328 430 L348 442" stroke="#4E8C2E" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M196 292 L184 330" stroke="#4E8C2E" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/><path d="M226 300 L220 336" stroke="#4E8C2E" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <ellipse cx="290" cy="280" rx="112" ry="44" fill="#7CBF4D" transform="rotate(12 290 280)"/>
+  <circle cx="172" cy="246" r="38" fill="#7CBF4D"/>
+  <path d="M150 214 C130 184 104 170 84 172" stroke="#4E8C2E" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M172 210 C162 178 142 158 122 154" stroke="#4E8C2E" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <circle cx="166" cy="234" r="10" fill="#FFFFFF"/><circle cx="167" cy="235" r="5" fill="#2F4E1E"/><circle cx="170" cy="231" r="1.8" fill="#FFFFFF"/>
+  <path d="M150 262 Q162 270 176 264" stroke="#4E8C2E" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <ellipse cx="240" cy="252" rx="18" ry="9" fill="#FFFFFF" opacity="0.3" transform="rotate(12 240 252)"/>
 </svg>

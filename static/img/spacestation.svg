@@ -1,5 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#4ECDC4"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="50" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">space station</text>
+  <path d="M150 256 L362 256" stroke="#9FB4C4" stroke-width="10" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <rect x="40" y="208" width="116" height="96" rx="8" fill="#3E7FBF"/>
+  <path d="M68 208 L68 304" stroke="#BFE0F5" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/><path d="M96 208 L96 304" stroke="#BFE0F5" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/><path d="M124 208 L124 304" stroke="#BFE0F5" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M40 240 L156 240" stroke="#BFE0F5" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/><path d="M40 272 L156 272" stroke="#BFE0F5" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <rect x="356" y="208" width="116" height="96" rx="8" fill="#3E7FBF"/>
+  <path d="M384 208 L384 304" stroke="#BFE0F5" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/><path d="M412 208 L412 304" stroke="#BFE0F5" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/><path d="M440 208 L440 304" stroke="#BFE0F5" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M356 240 L472 240" stroke="#BFE0F5" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/><path d="M356 272 L472 272" stroke="#BFE0F5" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <rect x="212" y="176" width="88" height="160" rx="22" fill="#F5F0E8"/>
+  <path d="M212 216 L300 216" stroke="#C9D4DC" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M212 256 L300 256" stroke="#C9D4DC" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M212 296 L300 296" stroke="#C9D4DC" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <circle cx="256" cy="236" r="16" fill="#3E7FBF" stroke="#5A6470" stroke-width="4"/>
+  <path d="M256 176 L256 132" stroke="#9FB4C4" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <circle cx="256" cy="126" r="8" fill="#D94A3D"/>
+  <ellipse cx="228" cy="196" rx="10" ry="26" fill="#FFFFFF" opacity="0.4"/>
 </svg>

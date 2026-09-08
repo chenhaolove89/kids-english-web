@@ -1,5 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#12B886"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="81" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">e-reader</text>
+  <rect x="124" y="72" width="264" height="368" rx="26" fill="#5A6470"/>
+  <rect x="146" y="96" width="220" height="288" rx="8" fill="#F5E6D3"/>
+  <path d="M168 132 L344 132" stroke="#A08B7E" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M168 164 L320 164" stroke="#B9A98C" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M168 190 L344 190" stroke="#B9A98C" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M168 216 L300 216" stroke="#B9A98C" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M168 252 L344 252" stroke="#B9A98C" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M168 278 L326 278" stroke="#B9A98C" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M168 304 L344 304" stroke="#B9A98C" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M168 330 L280 330" stroke="#B9A98C" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <circle cx="256" cy="412" r="14" fill="#9FB4C4"/>
+  <path d="M212 412 L228 404 M212 412 L228 420" stroke="#9FB4C4" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M300 412 L284 404 M300 412 L284 420" stroke="#9FB4C4" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <ellipse cx="160" cy="120" rx="10" ry="30" fill="#FFFFFF" opacity="0.3"/>
 </svg>

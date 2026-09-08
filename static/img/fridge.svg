@@ -1,5 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#FF6B6B"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="109" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">fridge</text>
+  <rect x="146" y="92" width="220" height="330" rx="22" fill="#ECEFF3" stroke="#C7CED6" stroke-width="6"/>
+  <rect x="154" y="100" width="204" height="110" rx="14" fill="#FAFAFA"/>
+  <rect x="154" y="218" width="204" height="196" rx="14" fill="#FAFAFA"/>
+  <rect x="322" y="130" width="14" height="44" rx="7" fill="#90A4AE"/>
+  <rect x="322" y="250" width="14" height="70" rx="7" fill="#90A4AE"/>
+  <path d="M156 216 L356 216" stroke="#C7CED6" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <circle cx="200" cy="150" r="10" fill="#5CC0F0" opacity="0.7"/>
+  <ellipse cx="176" cy="140" rx="14" ry="30" fill="#FFFFFF" opacity="0.5" transform="rotate(-4 176 140)"/>
 </svg>

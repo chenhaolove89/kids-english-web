@@ -1,5 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#3BB273"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="93" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">sparrow</text>
+  <path d="M238 366 L234 402" stroke="#D98F2B" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/><path d="M234 402 L222 406" stroke="#D98F2B" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/><path d="M268 366 L272 402" stroke="#D98F2B" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/><path d="M272 402 L284 406" stroke="#D98F2B" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M320 320 L412 372 L392 396 L306 348 Z" fill="#8A6E52"/>
+  <ellipse cx="250" cy="300" rx="95" ry="75" fill="#B08860"/>
+  <ellipse cx="230" cy="335" rx="62" ry="40" fill="#E8D5B8"/>
+  <circle cx="175" cy="215" r="55" fill="#9C7E5E"/>
+  <path d="M128 222 L96 234 L128 248 Z" fill="#F2A93B"/>
+  <circle cx="160" cy="205" r="9" fill="#FFFFFF"/><circle cx="160" cy="205" r="4.95" fill="#2F3A42"/><circle cx="162.7" cy="202.3" r="1.98" fill="#FFFFFF"/>
+  <ellipse cx="162" cy="242" rx="22" ry="16" fill="#F5E6D3"/>
+  <ellipse cx="290" cy="290" rx="60" ry="38" fill="#8A6E52" transform="rotate(20 290 290)"/>
+  <path d="M250 282 C280 278 310 288 330 304" stroke="#6E5238" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M246 300 C276 296 306 306 326 322" stroke="#6E5238" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <ellipse cx="210" cy="260" rx="18" ry="10" fill="#FFFFFF" opacity="0.3" transform="rotate(-20 210 260)"/>
 </svg>

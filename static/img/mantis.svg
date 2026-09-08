@@ -1,5 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#FF8C42"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="109" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">mantis</text>
+  <ellipse cx="256" cy="344" rx="58" ry="74" fill="#85C24A"/>
+  <path d="M256 280 L256 408" stroke="#6BA338" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M232 400 L212 452" stroke="#6BA338" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/><path d="M280 400 L300 452" stroke="#6BA338" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <rect x="240" y="190" width="32" height="86" rx="16" fill="#85C24A"/>
+  <path d="M242 218 L206 198" stroke="#6BA338" stroke-width="12" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M206 198 L232 180" stroke="#6BA338" stroke-width="9" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M270 218 L306 198" stroke="#6BA338" stroke-width="12" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M306 198 L280 180" stroke="#6BA338" stroke-width="9" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M256 140 L288 176 L224 176 Z" fill="#85C24A" stroke="#85C24A" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M246 146 C242 132 234 124 224 120" stroke="#6BA338" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M266 146 C270 132 278 124 288 120" stroke="#6BA338" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <ellipse cx="228" cy="160" rx="13" ry="11" fill="#F2C94C"/><ellipse cx="284" cy="160" rx="13" ry="11" fill="#F2C94C"/>
+  <circle cx="228" cy="160" r="5" fill="#3A4A1E"/><circle cx="284" cy="160" r="5" fill="#3A4A1E"/>
+  <path d="M246 170 Q256 176 266 170" stroke="#4A6B1E" stroke-width="3.5" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
 </svg>

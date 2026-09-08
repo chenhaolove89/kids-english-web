@@ -1,5 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#12B886"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="109" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">sorbet</text>
+  <path d="M368 250 L416 170" stroke="#B0BEC5" stroke-width="13" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <circle cx="420" cy="160" r="15" fill="#B0BEC5"/><circle cx="420" cy="160" r="7" fill="#90A4AE"/>
+  <circle cx="186" cy="234" r="52" fill="#F8A5C2"/>
+  <circle cx="256" cy="210" r="54" fill="#FFD54F"/>
+  <circle cx="324" cy="236" r="50" fill="#AED581"/>
+  <path d="M136 272 Q136 368 256 368 Q376 368 376 272 Z" fill="#5CC0F0"/>
+  <ellipse cx="256" cy="272" rx="120" ry="26" fill="#4FA8D8"/>
+  <ellipse cx="172" cy="314" rx="20" ry="26" fill="#FFFFFF" opacity="0.3" transform="rotate(12 172 314)"/>
 </svg>

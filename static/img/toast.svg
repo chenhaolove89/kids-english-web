@@ -1,5 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#FFC94D"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="131" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">toast</text>
+  <g transform="rotate(-14 210 220)">
+    <path d="M116 190 Q116 128 216 128 Q316 128 316 190 L316 300 Q316 320 296 320 L136 320 Q116 320 116 300 Z" fill="#C8862A"/>
+  </g>
+  <path d="M156 224 Q156 162 256 162 Q356 162 356 224 L356 340 Q356 360 336 360 L176 360 Q156 360 156 340 Z" fill="#D99A4E"/>
+  <path d="M186 232 Q186 196 256 196 Q326 196 326 232 L326 324 Q326 334 316 334 L196 334 Q186 334 186 324 Z" fill="#F7E3B8"/>
+  <ellipse cx="206" cy="220" rx="30" ry="20" fill="#FFFFFF" opacity="0.45" transform="rotate(-20 206 220)"/>
 </svg>

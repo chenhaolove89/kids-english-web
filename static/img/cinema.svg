@@ -1,5 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#9B5DE5"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="109" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">cinema</text>
+  <rect x="60" y="90" width="392" height="40" rx="12" fill="#8A6242"/>
+  <path d="M70 110 C110 240 90 330 60 400 L150 400 C130 320 140 200 120 110 Z" fill="#C94A4A"/>
+  <path d="M442 110 C402 240 422 330 452 400 L362 400 C382 320 372 200 392 110 Z" fill="#C94A4A"/>
+  <path d="M70 110 C100 150 100 200 84 250 C70 200 66 150 60 110 Z" fill="#A83A3A" opacity="0.5"/>
+  <rect x="140" y="130" width="232" height="240" rx="10" fill="#F5F0E8"/>
+  <rect x="156" y="146" width="200" height="208" rx="6" fill="#FFFFFF"/>
+  <path d="M210 200 L290 240 L210 280 Z" fill="#F2A93B"/>
+  <rect x="120" y="396" width="272" height="40" rx="8" fill="#37444C"/>
+  <rect x="136" y="404" width="30" height="24" rx="4" fill="#F5F0E8"/><rect x="186" y="404" width="30" height="24" rx="4" fill="#F5F0E8"/><rect x="236" y="404" width="30" height="24" rx="4" fill="#F5F0E8"/><rect x="286" y="404" width="30" height="24" rx="4" fill="#F5F0E8"/><rect x="336" y="404" width="30" height="24" rx="4" fill="#F5F0E8"/>
 </svg>

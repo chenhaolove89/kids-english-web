@@ -1,5 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#4D96FF"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="59" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">marshmallow</text>
+  <rect x="132" y="210" width="110" height="130" rx="30" fill="#FFFFFF" stroke="#E3E7EC" stroke-width="5"/>
+  <rect x="270" y="210" width="110" height="130" rx="30" fill="#F8BBD0" stroke="#F0A6C0" stroke-width="5"/>
+  <rect x="200" y="320" width="112" height="130" rx="30" fill="#FFFFFF" stroke="#E3E7EC" stroke-width="5"/>
+  <ellipse cx="158" cy="236" rx="22" ry="14" fill="#FFFFFF" opacity="0.7" transform="rotate(-16 158 236)"/>
+  <ellipse cx="296" cy="236" rx="22" ry="14" fill="#FFFFFF" opacity="0.5" transform="rotate(-16 296 236)"/>
+  <ellipse cx="226" cy="346" rx="22" ry="14" fill="#FFFFFF" opacity="0.7" transform="rotate(-16 226 346)"/>
 </svg>

@@ -1,5 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#F76BA8"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="109" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">walrus</text>
+  <ellipse cx="120" cy="392" rx="48" ry="26" fill="#8A766A" transform="rotate(20 120 392)"/>
+  <ellipse cx="392" cy="392" rx="48" ry="26" fill="#8A766A" transform="rotate(-20 392 392)"/>
+  <ellipse cx="256" cy="306" rx="148" ry="126" fill="#A08B7E"/>
+  <rect x="208" y="282" width="20" height="86" rx="10" fill="#FFFDF5" stroke="#D9CBB8" stroke-width="2"/>
+  <rect x="284" y="282" width="20" height="86" rx="10" fill="#FFFDF5" stroke="#D9CBB8" stroke-width="2"/>
+  <ellipse cx="256" cy="262" rx="78" ry="54" fill="#C4AE9F"/>
+  <circle cx="214" cy="198" r="8" fill="#4A3A30"/><circle cx="298" cy="198" r="8" fill="#4A3A30"/>
+  <circle cx="217" cy="195" r="3" fill="#FFFFFF"/><circle cx="301" cy="195" r="3" fill="#FFFFFF"/>
+  <circle cx="256" cy="240" r="9" fill="#6E584A"/>
+  <circle cx="206" cy="252" r="3" fill="#6E584A"/><circle cx="224" cy="262" r="3" fill="#6E584A"/><circle cx="210" cy="272" r="3" fill="#6E584A"/>
+  <circle cx="306" cy="252" r="3" fill="#6E584A"/><circle cx="288" cy="262" r="3" fill="#6E584A"/><circle cx="302" cy="272" r="3" fill="#6E584A"/>
+  <ellipse cx="200" cy="296" rx="20" ry="12" fill="#FFFFFF" opacity="0.25" transform="rotate(-20 200 296)"/>
 </svg>

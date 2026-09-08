@@ -1,5 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#4D96FF"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="81" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">homework</text>
+  <path d="M150 116 L330 116 L366 152 L366 400 L150 400 Z" fill="#FAFAFA" stroke="#E3E7EC" stroke-width="5"/>
+  <path d="M330 116 L330 152 L366 152 Z" fill="#E3E7EC"/>
+  <path d="M176 200 L340 200" stroke="#C7CED6" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M176 240 L340 240" stroke="#C7CED6" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M176 280 L300 280" stroke="#C7CED6" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M176 320 L340 320" stroke="#C7CED6" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <circle cx="196" cy="160" r="11" fill="#E86A5C"/><circle cx="224" cy="160" r="11" fill="#5CB85C"/>
+  <g transform="rotate(36 300 330)">
+    <rect x="282" y="250" width="36" height="170" rx="14" fill="#F5B841"/>
+    <path d="M288 236 L312 236 L308 254 L292 254 Z" fill="#4A342E"/>
+    <rect x="282" y="250" width="36" height="26" rx="12" fill="#E86A5C"/>
+  </g>
 </svg>

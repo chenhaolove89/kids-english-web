@@ -1,5 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#FF6B6B"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="81" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">doorbell</text>
+  <rect x="210" y="96" width="120" height="320" rx="14" fill="#A8721F"/>
+  <rect x="226" y="112" width="88" height="288" rx="10" fill="#C8862A"/>
+  <circle cx="180" cy="250" r="34" fill="#5CC0F0"/>
+  <circle cx="180" cy="250" r="18" fill="#2E86B8"/>
+  <path d="M138 218 Q122 250 138 282" stroke="#5CC0F0" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M112 196 Q88 250 112 304" stroke="#5CC0F0" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.7"/>
+  <ellipse cx="232" cy="130" rx="20" ry="8" fill="#FFFFFF" opacity="0.35" transform="rotate(-4 232 130)"/>
 </svg>

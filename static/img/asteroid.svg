@@ -1,5 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#C77DFF"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="81" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">asteroid</text>
+  <path d="M150 250 L190 156 L280 128 L366 168 L398 258 L366 340 L282 386 L192 366 L148 314 Z" fill="#9E9E9E" stroke="#7A7A7A" stroke-width="6" stroke-linejoin="round"/>
+  <circle cx="230" cy="210" r="26" fill="#808080"/><circle cx="230" cy="210" r="18" fill="#6E6E6E"/>
+  <circle cx="320" cy="260" r="18" fill="#808080"/><circle cx="320" cy="260" r="12" fill="#6E6E6E"/>
+  <circle cx="240" cy="320" r="14" fill="#808080"/><circle cx="240" cy="320" r="9" fill="#6E6E6E"/>
+  <ellipse cx="196" cy="180" rx="14" ry="8" fill="#FFFFFF" opacity="0.4" transform="rotate(-30 196 180)"/>
+  <circle cx="96" cy="180" r="7" fill="#9E9E9E"/><circle cx="430" cy="150" r="6" fill="#9E9E9E"/><circle cx="420" cy="400" r="8" fill="#9E9E9E"/>
 </svg>

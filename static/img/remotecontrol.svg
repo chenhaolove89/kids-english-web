@@ -1,5 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#C77DFF"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="46" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">remote control</text>
+  <rect x="192" y="72" width="128" height="368" rx="36" fill="#37444C"/>
+  <rect x="228" y="88" width="56" height="16" rx="8" fill="#5A6470"/>
+  <circle cx="256" cy="136" r="15" fill="#D94A3D"/>
+  <circle cx="256" cy="204" r="30" fill="none" stroke="#9FB4C4" stroke-width="8"/>
+  <circle cx="256" cy="204" r="10" fill="#9FB4C4"/>
+  <circle cx="222" cy="268" r="9" fill="#5A6470"/><circle cx="256" cy="268" r="9" fill="#5A6470"/><circle cx="290" cy="268" r="9" fill="#5A6470"/>
+  <circle cx="222" cy="300" r="9" fill="#5A6470"/><circle cx="256" cy="300" r="9" fill="#5A6470"/><circle cx="290" cy="300" r="9" fill="#5A6470"/>
+  <rect x="212" y="330" width="40" height="18" rx="9" fill="#63B068"/>
+  <rect x="260" y="330" width="40" height="18" rx="9" fill="#3E7FBF"/>
+  <rect x="212" y="362" width="88" height="18" rx="9" fill="#5A6470"/>
+  <ellipse cx="216" cy="110" rx="8" ry="30" fill="#FFFFFF" opacity="0.25" transform="rotate(-10 216 110)"/>
 </svg>

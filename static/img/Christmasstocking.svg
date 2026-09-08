@@ -1,5 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#12B886"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="36" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">Christmas stocking</text>
+  <path d="M256 60 L256 100" stroke="#8A6242" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <rect x="170" y="96" width="176" height="52" rx="16" fill="#F5F0E8" stroke="#D8D8D8" stroke-width="4"/>
+  <path d="M186 148 L330 148 L330 290 C330 316 356 322 380 340 C412 364 408 410 372 424 C330 440 296 416 250 416 C204 416 186 396 186 360 Z" fill="#D94A3D" stroke="#A83A3A" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M250 416 C296 416 330 440 372 424 C396 414 406 392 398 372 C380 396 340 396 310 384 L250 384 Z" fill="#F5F0E8"/>
+  <path d="M236 210 L242 228 L260 234 L242 240 L236 258 L230 240 L212 234 L230 228 Z" fill="#F5F0E8"/>
+  <circle cx="296" cy="296" r="6" fill="#F5F0E8"/><circle cx="220" cy="320" r="5" fill="#F5F0E8"/>
+  <ellipse cx="210" cy="180" rx="10" ry="24" fill="#FFFFFF" opacity="0.3"/>
 </svg>

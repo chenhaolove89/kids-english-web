@@ -1,5 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#4D96FF"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="131" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">drill</text>
+  <rect x="128" y="176" width="210" height="112" rx="26" fill="#F5C542"/>
+  <path d="M150 206 L210 206" stroke="#E8B93A" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/><path d="M150 226 L210 226" stroke="#E8B93A" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/><path d="M150 246 L210 246" stroke="#E8B93A" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <rect x="330" y="200" width="42" height="64" rx="10" fill="#5A6470"/>
+  <path d="M372 232 L456 232" stroke="#9FB4C4" stroke-width="12" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M392 224 L386 240" stroke="#7A8B98" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/><path d="M412 224 L406 240" stroke="#7A8B98" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/><path d="M432 224 L426 240" stroke="#7A8B98" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <rect x="150" y="280" width="62" height="110" rx="18" fill="#E8B93A"/>
+  <rect x="206" y="292" width="22" height="36" rx="8" fill="#37444C"/>
+  <rect x="130" y="384" width="104" height="44" rx="14" fill="#37444C"/>
+  <circle cx="178" cy="200" r="9" fill="#37444C"/>
+  <ellipse cx="160" cy="196" rx="10" ry="20" fill="#FFFFFF" opacity="0.3"/>
 </svg>

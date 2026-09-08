@@ -1,5 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#FF9F1C"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="81" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">iced tea</text>
+  <path d="M314 60 L294 190" stroke="#E8437C" stroke-width="10" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M184 176 L328 176 L306 398 Q256 416 206 398 Z" fill="#F7E3B8"/>
+  <path d="M190 230 L322 230 L306 398 Q256 416 206 398 Z" fill="#E0A32E"/>
+  <rect x="212" y="268" width="52" height="42" rx="8" fill="#FFFFFF" opacity="0.75"/>
+  <rect x="258" y="316" width="46" height="38" rx="8" fill="#FFFFFF" opacity="0.6"/>
+  <circle cx="226" cy="236" r="24" fill="#FFE066"/><circle cx="226" cy="236" r="16" fill="#FFF3C4"/>
+  <ellipse cx="212" cy="200" rx="12" ry="30" fill="#FFFFFF" opacity="0.4" transform="rotate(-5 212 200)"/>
 </svg>

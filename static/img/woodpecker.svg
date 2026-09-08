@@ -1,5 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#F76BA8"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="65" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">woodpecker</text>
+  <rect x="360" y="90" width="80" height="370" rx="16" fill="#8A6242"/>
+  <path d="M380 130 C394 170 380 210 392 250" stroke="#6E4A30" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M418 160 C408 200 420 240 410 280" stroke="#6E4A30" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M384 300 C396 336 384 372 396 404" stroke="#6E4A30" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M322 348 C348 368 362 384 368 398 L348 404 C338 386 326 368 314 356 Z" fill="#37444C"/>
+  <path d="M340 300 L364 306" stroke="#5A4632" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/><path d="M336 268 L362 272" stroke="#5A4632" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <ellipse cx="290" cy="270" rx="62" ry="95" fill="#4A5A64" transform="rotate(-10 290 270)"/>
+  <ellipse cx="258" cy="250" rx="26" ry="50" fill="#F5F0E8" transform="rotate(-10 258 250)"/>
+  <ellipse cx="300" cy="292" rx="32" ry="48" fill="#2E3A42" transform="rotate(-8 300 292)"/>
+  <circle cx="280" cy="256" r="5" fill="#F5F0E8"/><circle cx="290" cy="292" r="5" fill="#F5F0E8"/><circle cx="300" cy="326" r="5" fill="#F5F0E8"/>
+  <circle cx="318" cy="150" r="46" fill="#37444C"/>
+  <path d="M358 142 L410 132 L358 162 Z" fill="#5A4632"/>
+  <path d="M300 108 L322 74 L344 106 Z" fill="#D94A3D"/>
+  <circle cx="322" cy="142" r="8" fill="#FFFFFF"/><circle cx="322" cy="142" r="4.4" fill="#2F3A42"/><circle cx="324.4" cy="139.6" r="1.76" fill="#FFFFFF"/>
+  <ellipse cx="416" cy="196" rx="6" ry="4" fill="#C9A176" transform="rotate(30 416 196)"/><ellipse cx="428" cy="214" rx="5" ry="3" fill="#C9A176" transform="rotate(-20 428 214)"/>
 </svg>

@@ -1,5 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#12B886"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="163" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">gate</text>
+  <path d="M126 416 L126 216 Q256 96 386 216 L386 416 Z" fill="none" stroke="#8B5A2B" stroke-width="22"/>
+  <path d="M166 236 L166 416" stroke="#C8862A" stroke-width="14" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/><path d="M211 236 L211 416" stroke="#C8862A" stroke-width="14" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/><path d="M256 236 L256 416" stroke="#C8862A" stroke-width="14" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/><path d="M301 236 L301 416" stroke="#C8862A" stroke-width="14" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/><path d="M346 236 L346 416" stroke="#C8862A" stroke-width="14" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M148 300 L364 300" stroke="#A8721F" stroke-width="12" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M148 372 L364 372" stroke="#A8721F" stroke-width="12" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <rect x="296" y="330" width="44" height="16" rx="8" fill="#5CC0F0"/>
+  <ellipse cx="180" cy="210" rx="20" ry="12" fill="#FFFFFF" opacity="0.35" transform="rotate(-40 180 210)"/>
 </svg>

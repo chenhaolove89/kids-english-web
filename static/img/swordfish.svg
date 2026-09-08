@@ -1,5 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#4ECDC4"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="72" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">swordfish</text>
+  <path d="M408 262 C436 240 452 226 462 214 C458 244 458 288 462 318 C452 306 436 290 408 270 Z" fill="#3A66A0"/>
+  <path d="M262 204 C286 168 330 158 360 166 C344 186 330 200 318 212 Z" fill="#3A66A0"/>
+  <path d="M76 262 L192 246 L192 276 Z" fill="#4A7FBF" stroke="#4A7FBF" stroke-width="8" stroke-linejoin="round"/>
+  <ellipse cx="300" cy="266" rx="118" ry="66" fill="#4A7FBF"/>
+  <ellipse cx="300" cy="296" rx="86" ry="32" fill="#8FB6DE"/>
+  <ellipse cx="280" cy="318" rx="26" ry="12" fill="#3A66A0" transform="rotate(20 280 318)"/>
+  <path d="M340 330 L360 356 L376 326 Z" fill="#3A66A0" stroke="#3A66A0" stroke-width="6" stroke-linejoin="round"/>
+  <circle cx="232" cy="246" r="10" fill="#FFFFFF"/><circle cx="233" cy="247" r="5" fill="#2F4E7E"/><circle cx="236" cy="243" r="2" fill="#FFFFFF"/>
+  <path d="M92 268 Q120 276 148 270" stroke="#2F4E7E" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <ellipse cx="330" cy="234" rx="20" ry="10" fill="#FFFFFF" opacity="0.3" transform="rotate(-15 330 234)"/>
 </svg>

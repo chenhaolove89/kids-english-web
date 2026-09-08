@@ -1,5 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#C77DFF"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="93" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">ice pop</text>
+  <rect x="244" y="336" width="24" height="100" rx="12" fill="#C8862A"/>
+  <path d="M186 160 Q186 118 256 118 Q326 118 326 160 L326 316 Q326 342 300 342 L212 342 Q186 342 186 316 Z" fill="#F06C9C"/>
+  <path d="M186 160 Q186 118 256 118 Q326 118 326 160 L326 226 L186 226 Z" fill="#FF9F43"/>
+  <ellipse cx="216" cy="170" rx="16" ry="40" fill="#FFFFFF" opacity="0.45" transform="rotate(8 216 170)"/>
 </svg>

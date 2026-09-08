@@ -1,5 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#FFC94D"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="163" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">taro</text>
+  <path d="M238 214 Q256 158 274 214 Z" fill="#8FA06A"/>
+  <path d="M256 200 L256 178" stroke="#6E7F4E" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <ellipse cx="256" cy="304" rx="112" ry="96" fill="#9A7B5A"/>
+  <path d="M150 274 Q256 250 362 274" stroke="#7E6146" stroke-width="9" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M146 312 Q256 290 366 312" stroke="#7E6146" stroke-width="9" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M158 350 Q256 330 354 350" stroke="#7E6146" stroke-width="9" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M196 262 L188 246" stroke="#7E6146" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M268 258 L266 240" stroke="#7E6146" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M330 268 L340 254" stroke="#7E6146" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M256 400 L256 428" stroke="#7E6146" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M210 392 L202 416" stroke="#7E6146" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <ellipse cx="204" cy="262" rx="26" ry="16" fill="#FFFFFF" opacity="0.3" transform="rotate(-24 204 262)"/>
 </svg>

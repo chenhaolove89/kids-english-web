@@ -1,5 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#F76BA8"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="34" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">Mid-Autumn Festival</text>
+  <circle cx="256" cy="230" r="150" fill="#F7D94A"/>
+  <circle cx="256" cy="230" r="150" fill="#F5C542" opacity="0.5"/>
+  <circle cx="200" cy="180" r="22" fill="#E8B93A" opacity="0.6"/>
+  <circle cx="300" cy="260" r="16" fill="#E8B93A" opacity="0.6"/>
+  <circle cx="270" cy="160" r="10" fill="#E8B93A" opacity="0.6"/>
+  <path d="M120 330 C120 306 160 306 168 318 C176 296 220 296 226 316 C236 302 264 306 266 324 C280 320 292 332 286 346 L128 346 C118 344 116 338 120 330 Z" fill="#F5F0E8"/>
+  <path d="M280 400 C280 380 314 380 320 390 C328 372 362 372 368 388 C380 376 402 384 398 400 L288 404 C280 404 278 402 280 400 Z" fill="#F5F0E8" opacity="0.9"/>
+  <path d="M400 100 L406 118 L424 124 L406 130 L400 148 L394 130 L376 124 L394 118 Z" fill="#F5F0E8"/>
+  <circle cx="110" cy="130" r="6" fill="#F5F0E8"/><circle cx="140" cy="90" r="4" fill="#F5F0E8"/>
 </svg>

@@ -1,5 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#FF8C42"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="81" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">meatball</text>
+  <circle cx="256" cy="384" r="152" fill="#E3E7EC"/>
+  <circle cx="256" cy="374" r="132" fill="#FAFAFA"/>
+  <circle cx="198" cy="338" r="48" fill="#8B5A2B"/><circle cx="312" cy="332" r="52" fill="#7A4E24"/><circle cx="256" cy="378" r="46" fill="#8B5A2B"/>
+  <circle cx="184" cy="324" r="7" fill="#6B4420"/><circle cx="324" cy="316" r="7" fill="#5E3D1C"/><circle cx="246" cy="366" r="7" fill="#6B4420"/>
+  <ellipse cx="180" cy="318" rx="16" ry="10" fill="#FFFFFF" opacity="0.4" transform="rotate(-20 180 318)"/><ellipse cx="294" cy="312" rx="16" ry="10" fill="#FFFFFF" opacity="0.35" transform="rotate(-20 294 312)"/>
 </svg>

@@ -1,5 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#3BB273"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="81" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">smoothie</text>
+  <path d="M182 176 L330 176 L306 396 Q256 414 206 396 Z" fill="#B07CC6"/>
+  <path d="M188 240 L324 240 L306 396 Q256 414 206 396 Z" fill="#9C64B0"/>
+  <circle cx="232" cy="296" r="17" fill="#D64541"/><circle cx="282" cy="330" r="15" fill="#D64541"/>
+  <ellipse cx="330" cy="176" rx="26" ry="18" fill="#E8437C" transform="rotate(-24 330 176)"/>
+  <ellipse cx="340" cy="158" rx="10" ry="5" fill="#5CB85C" transform="rotate(-24 340 158)"/>
+  <path d="M352 176 L318 262" stroke="#E8437C" stroke-width="10" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <ellipse cx="210" cy="268" rx="14" ry="48" fill="#FFFFFF" opacity="0.3" transform="rotate(-5 210 268)"/>
 </svg>

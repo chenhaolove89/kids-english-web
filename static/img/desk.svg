@@ -1,5 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#5C7CFA"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="163" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">desk</text>
+  <rect x="120" y="210" width="272" height="34" rx="10" fill="#D99A4E"/>
+  <rect x="120" y="240" width="272" height="16" rx="6" fill="#C8862A"/>
+  <path d="M142 256 L142 424" stroke="#8B5A2B" stroke-width="16" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M370 256 L370 424" stroke="#8B5A2B" stroke-width="16" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M142 400 L370 400" stroke="#8B5A2B" stroke-width="0.1" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <rect x="196" y="150" width="120" height="26" rx="6" fill="#4A90D9"/>
+  <rect x="204" y="130" width="104" height="24" rx="6" fill="#5CC0F0"/>
+  <path d="M196 158 L316 158" stroke="#FFFFFF" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.6"/>
 </svg>

@@ -1,5 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#3BB273"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="163" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">nail</text>
+  <rect x="172" y="84" width="168" height="40" rx="16" fill="#7A8B98"/>
+  <ellipse cx="210" cy="98" rx="26" ry="8" fill="#FFFFFF" opacity="0.4"/>
+  <path d="M232 124 L280 124 L270 372 L256 428 L242 372 Z" fill="#9FB4C4"/>
+  <path d="M262 132 L254 380" stroke="#7A8B98" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.7"/>
+  <ellipse cx="242" cy="160" rx="6" ry="40" fill="#FFFFFF" opacity="0.4"/>
+  <circle cx="256" cy="428" r="4" fill="#7A8B98"/>
 </svg>

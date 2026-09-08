@@ -1,5 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#9B5DE5"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="109" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">pocket</text>
+  <path d="M146 140 L366 140 L366 260 Q366 372 256 372 Q146 372 146 260 Z" fill="#4A76C9"/>
+  <path d="M146 140 L366 140 L366 176 L146 176 Z" fill="#3D63AD"/>
+  <path d="M166 196 L346 196" stroke="#A8C4F0" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/>
+  <path d="M170 216 Q256 260 342 216" stroke="#A8C4F0" stroke-width="6" fill="none" stroke-linecap="round" stroke-dasharray="2 14"/>
+  <ellipse cx="196" cy="250" rx="26" ry="40" fill="#FFFFFF" opacity="0.2" transform="rotate(10 196 250)"/>
 </svg>

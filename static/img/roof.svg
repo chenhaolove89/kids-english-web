@@ -1,5 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#FF8C42"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="163" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">roof</text>
+  <rect x="156" y="268" width="200" height="150" rx="10" fill="#ECEFF3"/>
+  <path d="M96 280 L256 130 L416 280 L388 280 L256 160 L124 280 Z" fill="#D64541"/>
+  <path d="M124 280 L256 160 L388 280 Z" fill="#E86A5C"/>
+  <path d="M170 244 L196 268" stroke="#C9503F" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/><path d="M212 244 L238 268" stroke="#C9503F" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/><path d="M254 244 L280 268" stroke="#C9503F" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/><path d="M296 244 L322 268" stroke="#C9503F" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <rect x="236" y="300" width="44" height="118" rx="8" fill="#A8721F"/>
+  <ellipse cx="210" cy="190" rx="30" ry="10" fill="#FFFFFF" opacity="0.35" transform="rotate(-32 210 190)"/>
 </svg>

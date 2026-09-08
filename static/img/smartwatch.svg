@@ -1,5 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#5C7CFA"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="65" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">smartwatch</text>
+  <rect x="214" y="52" width="84" height="128" rx="22" fill="#37444C"/>
+  <rect x="214" y="332" width="84" height="128" rx="22" fill="#37444C"/>
+  <rect x="170" y="150" width="172" height="212" rx="40" fill="#141A20" stroke="#5A6470" stroke-width="6"/>
+  <rect x="186" y="166" width="140" height="180" rx="26" fill="#1E3A5C"/>
+  <path d="M206 210 A50 50 0 0 1 306 210" stroke="#F5C542" stroke-width="10" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M206 210 A50 50 0 0 0 226 262" stroke="#63B068" stroke-width="10" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M256 262 C246 250 232 252 232 264 C232 276 246 284 256 292 C266 284 280 276 280 264 C280 252 266 250 256 262 Z" fill="#F06C9C"/>
+  <rect x="336" y="200" width="16" height="44" rx="8" fill="#5A6470"/>
+  <rect x="336" y="262" width="16" height="28" rx="8" fill="#5A6470"/>
+  <ellipse cx="204" cy="190" rx="10" ry="16" fill="#FFFFFF" opacity="0.3" transform="rotate(-20 204 190)"/>
 </svg>

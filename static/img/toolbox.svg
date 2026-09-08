@@ -1,5 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#9B5DE5"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="93" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">toolbox</text>
+  <path d="M204 216 C204 148 308 148 308 216" stroke="#37444C" stroke-width="16" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <rect x="84" y="212" width="344" height="192" rx="22" fill="#D94A3D"/>
+  <rect x="84" y="212" width="344" height="56" rx="22" fill="#C94A4A"/>
+  <path d="M84 268 L428 268" stroke="#A83A3A" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <rect x="150" y="240" width="40" height="30" rx="6" fill="#F5C542"/>
+  <rect x="322" y="240" width="40" height="30" rx="6" fill="#F5C542"/>
+  <rect x="236" y="244" width="40" height="24" rx="6" fill="#F5C542"/>
+  <path d="M110 320 L402 320" stroke="#A83A3A" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.6"/>
+  <ellipse cx="130" cy="290" rx="18" ry="10" fill="#FFFFFF" opacity="0.25"/>
 </svg>

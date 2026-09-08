@@ -1,5 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#FF6B6B"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="93" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">curtain</text>
+  <circle cx="120" cy="132" r="11" fill="#8B5A2B"/><circle cx="392" cy="132" r="11" fill="#8B5A2B"/>
+  <rect x="112" y="122" width="288" height="20" rx="10" fill="#A8721F"/>
+  <circle cx="180" cy="152" r="9" fill="#C8862A"/><circle cx="256" cy="152" r="9" fill="#C8862A"/><circle cx="332" cy="152" r="9" fill="#C8862A"/>
+  <path d="M136 162 Q120 280 130 388 Q152 404 172 388 Q194 402 210 386 Q196 270 200 164 Q168 152 136 162 Z" fill="#E86A5C"/>
+  <path d="M376 162 Q392 280 382 388 Q360 404 340 388 Q318 402 302 386 Q316 270 312 164 Q344 152 376 162 Z" fill="#E86A5C"/>
+  <path d="M256 162 L256 380" stroke="#F5B841" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <rect x="222" y="380" width="68" height="28" rx="8" fill="#F5B841"/>
+  <ellipse cx="160" cy="200" rx="12" ry="50" fill="#FFFFFF" opacity="0.25" transform="rotate(4 160 200)"/>
 </svg>

@@ -1,5 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#FF8C42"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="81" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">lemonade</text>
+  <path d="M318 64 L292 190" stroke="#E8437C" stroke-width="11" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M186 180 L326 180 L306 396 Q256 414 206 396 Z" fill="#FFF3C4"/>
+  <path d="M192 252 L320 252 L306 396 Q256 414 206 396 Z" fill="#FFE066"/>
+  <circle cx="238" cy="200" r="30" fill="#FFE066"/>
+  <circle cx="238" cy="200" r="22" fill="#FFF3C4"/>
+  <path d="M238 184 L238 216" stroke="#F5C842" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M222 200 L254 200" stroke="#F5C842" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <ellipse cx="214" cy="300" rx="14" ry="44" fill="#FFFFFF" opacity="0.4" transform="rotate(-5 214 300)"/>
 </svg>

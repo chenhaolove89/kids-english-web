@@ -1,5 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#FF8C42"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="109" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">blocks</text>
+  <rect x="116" y="300" width="132" height="132" rx="16" fill="#F25C54"/>
+  <polygon points="182.0,328.0 191.4,353.1 218.1,354.3 197.2,370.9 204.3,396.7 182.0,382.0 159.7,396.7 166.8,370.9 145.9,354.3 172.6,353.1" fill="#FFFFFF"/>
+  <rect x="264" y="300" width="132" height="132" rx="16" fill="#4A90D9"/>
+  <circle cx="330" cy="366" r="34" fill="#FFFFFF"/>
+  <rect x="190" y="162" width="132" height="132" rx="16" fill="#F5B841"/>
+  <polygon points="256,196 296,266 216,266" fill="#FFFFFF"/>
+  <ellipse cx="150" cy="330" rx="30" ry="18" fill="#FFFFFF" opacity="0.25" transform="rotate(-24 150 330)"/><ellipse cx="300" cy="330" rx="30" ry="18" fill="#FFFFFF" opacity="0.25" transform="rotate(-24 300 330)"/><ellipse cx="226" cy="194" rx="30" ry="18" fill="#FFFFFF" opacity="0.3" transform="rotate(-24 226 194)"/>
 </svg>

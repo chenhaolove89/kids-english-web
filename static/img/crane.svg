@@ -1,5 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#FF6B6B"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="131" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">crane</text>
+  <path d="M248 362 L240 462" stroke="#5A4632" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/><path d="M240 462 L222 468" stroke="#5A4632" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M278 360 L288 462" stroke="#5A4632" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/><path d="M288 462 L308 468" stroke="#5A4632" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M332 296 C382 306 412 336 418 376 C396 372 368 358 344 336 Z" fill="#37444C"/>
+  <ellipse cx="256" cy="310" rx="95" ry="62" fill="#F5F5F5"/>
+  <path d="M196 288 C152 236 150 162 186 118" stroke="#F5F5F5" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M182 262 C156 224 156 166 180 126" stroke="#2E3A42" stroke-width="9" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <circle cx="192" cy="112" r="22" fill="#F5F5F5"/>
+  <circle cx="192" cy="92" r="9" fill="#D94A3D"/>
+  <path d="M174 106 L92 116 L174 124 Z" fill="#8A6E52"/>
+  <circle cx="196" cy="106" r="6" fill="#FFFFFF"/><circle cx="196" cy="106" r="3.3000000000000003" fill="#2F3A42"/><circle cx="197.8" cy="104.2" r="1.32" fill="#FFFFFF"/>
+  <path d="M200 300 C240 292 288 296 320 310" stroke="#D8D8D8" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M206 322 C246 314 294 318 326 332" stroke="#D8D8D8" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <ellipse cx="230" cy="270" rx="18" ry="10" fill="#FFFFFF" opacity="0.4" transform="rotate(-15 230 270)"/>
 </svg>

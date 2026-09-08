@@ -1,5 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#FF9F1C"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="93" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">ukulele</text>
+  <rect x="240" y="66" width="32" height="74" rx="8" fill="#6B4A2B"/>
+  <circle cx="248" cy="80" r="6" fill="#FFD9B3"/><circle cx="264" cy="80" r="6" fill="#FFD9B3"/><circle cx="248" cy="108" r="6" fill="#FFD9B3"/><circle cx="264" cy="108" r="6" fill="#FFD9B3"/>
+  <ellipse cx="256" cy="300" rx="96" ry="110" fill="#F5B841"/>
+  <circle cx="256" cy="288" r="28" fill="#6B4A2B"/>
+  <rect x="234" y="372" width="44" height="16" rx="6" fill="#6B4A2B"/>
+  <path d="M250 80 L250 378" stroke="#FBE8C8" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M256 80 L256 380" stroke="#FBE8C8" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M262 80 L262 378" stroke="#FBE8C8" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <ellipse cx="214" cy="258" rx="26" ry="40" fill="#FFFFFF" opacity="0.35" transform="rotate(24 214 258)"/>
 </svg>

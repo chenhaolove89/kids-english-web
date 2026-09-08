@@ -1,5 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#9B5DE5"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="32" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">Dragon Boat Festival</text>
+  <path d="M60 340 L420 340 C440 340 448 360 436 376 C420 396 396 408 372 408 L120 408 C92 408 72 392 64 370 Z" fill="#63B068" stroke="#3E8C4A" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M100 340 L400 340" stroke="#3E8C4A" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <rect x="120" y="356" width="260" height="18" rx="9" fill="#F5C542"/>
+  <path d="M400 336 C430 300 452 280 460 250 C470 262 476 280 470 296 C484 292 494 300 492 314 C480 312 470 316 464 326 C456 344 436 352 416 350 Z" fill="#D94A3D" stroke="#A83A3A" stroke-width="4"/>
+  <circle cx="452" cy="282" r="6" fill="#F5F0E8"/><circle cx="454" cy="282" r="3" fill="#2E3A42"/>
+  <path d="M462 250 L480 232 L474 256 Z" fill="#F5C542"/>
+  <path d="M170 340 L150 280" stroke="#8A6242" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/><path d="M250 340 L250 278" stroke="#8A6242" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/><path d="M330 340 L350 280" stroke="#8A6242" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <rect x="142" y="268" width="18" height="14" rx="4" fill="#F2A93B" transform="rotate(-14 151 275)"/>
+  <rect x="241" y="266" width="18" height="14" rx="4" fill="#F2A93B"/><rect x="342" y="268" width="18" height="14" rx="4" fill="#F2A93B" transform="rotate(14 351 275)"/>
+  <path d="M60 440 Q100 428 140 440 T220 440 T300 440 T380 440 T460 440" stroke="#58ABDF" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M80 470 Q120 458 160 470 T240 470 T320 470 T400 470" stroke="#58ABDF" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.6"/>
 </svg>

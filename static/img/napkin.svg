@@ -1,5 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#4D96FF"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="109" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">napkin</text>
+  <path d="M116 180 L396 180 L396 350 L116 350 Z" fill="#FAFAFA" stroke="#E3E7EC" stroke-width="5"/>
+  <path d="M116 180 L186 130 L466 130 L396 180 Z" fill="#ECEFF3" stroke="#D8DEE4" stroke-width="5"/>
+  <path d="M396 180 L466 130 L466 300 L396 350 Z" fill="#E3E7EC" stroke="#D8DEE4" stroke-width="5"/>
+  <path d="M140 210 L372 210" stroke="#E86A5C" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.7"/>
+  <path d="M140 240 L372 240" stroke="#E86A5C" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.7"/>
+  <ellipse cx="150" cy="156" rx="30" ry="8" fill="#FFFFFF" opacity="0.5" transform="rotate(-26 150 156)"/>
 </svg>

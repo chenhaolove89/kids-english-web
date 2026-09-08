@@ -1,5 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#FF8C42"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="131" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">drone</text>
+  <path d="M226 236 L140 160" stroke="#37444C" stroke-width="14" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/><path d="M286 236 L372 160" stroke="#37444C" stroke-width="14" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M226 288 L140 364" stroke="#37444C" stroke-width="14" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/><path d="M286 288 L372 364" stroke="#37444C" stroke-width="14" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <ellipse cx="140" cy="158" rx="66" ry="12" fill="#9FB4C4" opacity="0.85"/>
+  <ellipse cx="372" cy="158" rx="66" ry="12" fill="#9FB4C4" opacity="0.85"/>
+  <ellipse cx="140" cy="366" rx="66" ry="12" fill="#9FB4C4" opacity="0.85"/>
+  <ellipse cx="372" cy="366" rx="66" ry="12" fill="#9FB4C4" opacity="0.85"/>
+  <circle cx="140" cy="158" r="9" fill="#5A6470"/><circle cx="372" cy="158" r="9" fill="#5A6470"/><circle cx="140" cy="366" r="9" fill="#5A6470"/><circle cx="372" cy="366" r="9" fill="#5A6470"/>
+  <rect x="210" y="220" width="92" height="84" rx="24" fill="#F5F0E8" stroke="#D8D8D8" stroke-width="3"/>
+  <rect x="226" y="236" width="60" height="26" rx="8" fill="#3E7FBF"/>
+  <path d="M256 304 L256 326" stroke="#5A6470" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <circle cx="256" cy="340" r="18" fill="#37444C"/>
+  <circle cx="256" cy="340" r="9" fill="#7FC4EA"/>
+  <path d="M226 304 L216 330" stroke="#5A6470" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/><path d="M286 304 L296 330" stroke="#5A6470" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <ellipse cx="226" cy="232" rx="8" ry="14" fill="#FFFFFF" opacity="0.4" transform="rotate(-20 226 232)"/>
 </svg>

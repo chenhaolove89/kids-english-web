@@ -1,5 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#FF8C42"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="109" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">shovel</text>
+  <path d="M356 108 L196 328" stroke="#8A6242" stroke-width="18" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <rect x="330" y="82" width="56" height="18" rx="9" fill="#6E584A" transform="rotate(38 358 91)"/>
+  <rect x="176" y="306" width="44" height="26" rx="8" fill="#5A6470" transform="rotate(38 198 319)"/>
+  <path d="M150 330 L246 396 C268 424 258 452 232 462 C196 474 156 452 140 414 L150 330 Z" fill="#9FB4C4" stroke="#7A8B98" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M158 352 L226 402" stroke="#7A8B98" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <ellipse cx="170" cy="400" rx="10" ry="22" fill="#FFFFFF" opacity="0.35" transform="rotate(-35 170 400)"/>
 </svg>

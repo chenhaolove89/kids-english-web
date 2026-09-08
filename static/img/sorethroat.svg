@@ -1,5 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#5C7CFA"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="59" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">sore throat</text>
+  
+  <circle cx="256" cy="220" r="90" fill="#FFD9B3"/>
+  <path d="M166 210 A90 90 0 0 1 346 210 L346 194 Q256 96 166 194 Z" fill="#4A342E"/>
+  
+  <circle cx="220" cy="214" r="9" fill="#4A342E"/><circle cx="292" cy="214" r="9" fill="#4A342E"/>
+  <ellipse cx="256" cy="268" rx="24" ry="28" fill="#8A4A3A"/>
+  <path d="M206 194 L230 202" stroke="#4A342E" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M306 194 L282 202" stroke="#4A342E" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <circle cx="256" cy="380" r="56" fill="#E88A7A" opacity="0.55"/>
+  <circle cx="256" cy="380" r="36" fill="#D94A3D" opacity="0.8"/>
+  <path d="M256 356 L256 336" stroke="#D94A3D" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M232 360 L220 344" stroke="#D94A3D" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/><path d="M280 360 L292 344" stroke="#D94A3D" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <path d="M150 330 C120 350 116 390 140 410" stroke="#58ABDF" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <circle cx="146" cy="416" r="17" fill="#FFD9B3"/>
+  <ellipse cx="200" cy="180" rx="10" ry="16" fill="#FFFFFF" opacity="0.4" transform="rotate(-20 200 180)"/>
 </svg>

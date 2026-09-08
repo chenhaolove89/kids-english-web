@@ -1,5 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#5C7CFA"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="131" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">fence</text>
+  <rect x="96" y="210" width="320" height="22" rx="8" fill="#ECEFF3" stroke="#C7CED6" stroke-width="4"/>
+  <rect x="96" y="300" width="320" height="22" rx="8" fill="#ECEFF3" stroke="#C7CED6" stroke-width="4"/>
+  <path d="M116 386 L116 160 L139 136 L162 160 L162 386 Z" fill="#FAFAFA" stroke="#C7CED6" stroke-width="4"/><path d="M178 386 L178 160 L201 136 L224 160 L224 386 Z" fill="#FAFAFA" stroke="#C7CED6" stroke-width="4"/><path d="M240 386 L240 160 L263 136 L286 160 L286 386 Z" fill="#FAFAFA" stroke="#C7CED6" stroke-width="4"/><path d="M302 386 L302 160 L325 136 L348 160 L348 386 Z" fill="#FAFAFA" stroke="#C7CED6" stroke-width="4"/><path d="M364 386 L364 160 L387 136 L410 160 L410 386 Z" fill="#FAFAFA" stroke="#C7CED6" stroke-width="4"/>
+  <ellipse cx="140" cy="180" rx="14" ry="20" fill="#FFFFFF" opacity="0.4" transform="rotate(-8 140 180)"/>
 </svg>

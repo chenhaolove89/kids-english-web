@@ -1,5 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#4D96FF"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="131" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">sugar</text>
+  <rect x="96" y="330" width="52" height="52" rx="8" fill="#FAFAFA" stroke="#D8DEE4" stroke-width="5"/>
+  <rect x="366" y="338" width="46" height="46" rx="8" fill="#FAFAFA" stroke="#D8DEE4" stroke-width="5"/>
+  <path d="M162 266 Q162 372 256 372 Q350 372 350 266 Z" fill="#5CC0F0"/>
+  <path d="M172 266 Q256 190 340 266 Z" fill="#4FA8D8"/>
+  <circle cx="256" cy="210" r="16" fill="#2E6BB0"/>
+  <path d="M162 268 L350 268" stroke="#2E6BB0" stroke-width="0.1" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+  <ellipse cx="190" cy="308" rx="20" ry="34" fill="#FFFFFF" opacity="0.3" transform="rotate(12 190 308)"/>
 </svg>

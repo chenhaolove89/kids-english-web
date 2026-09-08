@@ -1,5 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect x="16" y="16" width="480" height="480" rx="110" fill="#3BB273"/>
-  <rect x="34" y="34" width="444" height="444" rx="96" fill="none" stroke="rgba(255,255,255,0.45)" stroke-width="14"/>
-  <text x="256" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="43" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">Spring Festival</text>
+  <rect x="150" y="160" width="150" height="220" rx="16" fill="#D94A3D" transform="rotate(-8 225 270)"/>
+  <ellipse cx="225" cy="220" rx="30" ry="30" fill="#F5C542" transform="rotate(-8 225 270)"/>
+  <rect x="230" y="190" width="150" height="220" rx="16" fill="#C94A4A" transform="rotate(9 305 300)"/>
+  <ellipse cx="305" cy="250" rx="30" ry="30" fill="#F5C542" transform="rotate(9 305 300)"/>
+  <path d="M100 400 C100 372 200 372 200 400 C200 428 100 428 100 400 Z" fill="#F5C542" stroke="#E8B93A" stroke-width="4"/>
+  <path d="M120 388 C120 372 180 372 180 388 Z" fill="#F7D94A"/>
+  <circle cx="150" cy="402" r="10" fill="#E8B93A"/>
+  <circle cx="380" cy="120" r="10" fill="#F06C9C"/><circle cx="404" cy="100" r="8" fill="#F06C9C"/><circle cx="416" cy="128" r="8" fill="#F06C9C"/>
+  <circle cx="398" cy="116" r="5" fill="#F5F0E8"/>
+  <ellipse cx="180" cy="200" rx="10" ry="30" fill="#FFFFFF" opacity="0.3" transform="rotate(-8 180 200)"/>
 </svg>
