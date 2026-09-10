@@ -1,0 +1,1 @@
+import{G as n,z as t,A as o}from"./index-CdFzXCJ1.js";function a(n,t=()=>Date.now()){let o=-1/0;return()=>{const a=t();return!(a-o<n)&&(o=a,!0)}}const s=a(700);function e(){return s()}function r(){const a="function"==typeof n?n():[];a&&a.length>1?t():o({url:"/pages/map/map"})}export{e as a,a as c,r as g};
